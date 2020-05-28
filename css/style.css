@@ -1,0 +1,29 @@
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 20%;
+}
+
+.catsnake {
+  width:90%;
+  border-radius: 50%;
+}
+
+.lois {
+  border-radius: 50%;
+  width: 90%;
+}
+.animal {
+  text-align: center;
+  margin: 12px;
+  border: 10px dotted black;
+  padding: 8px;
+  background-color: cadetblue;
+  width: 200px;
+  float: left;
+}
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+}
